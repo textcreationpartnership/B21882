@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another declaration from both Houses of Parliament, sent to His Majesty March 23, 1641</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21882</idno><idno type="EEBO-CITATION">11230982</idno>
+  <idno type="VID">204935</idno>
+  <idno type="EEBO-PROQUEST">2248503191</idno>
+  
+            <idno type="STC">Wing E1213</idno>
+            <idno type="OCLC">11230982</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21882)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204935)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another declaration from both Houses of Parliament, sent to His Majesty March 23, 1641</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2] 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R. Oulton &amp; G. Dexter,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204935:1"/>
+            <pb facs="tcp:204935:1"/>
+            <p> ANOTHER DECLARATION <hi>FROM BOTH</hi> HOUSES OF PARLIAMENT: Sent to His Majesty, <hi>March</hi> 23. 1641.</p>
+            <figure>
+               <figDesc>coat of arms used by Elizabeth I, Edward IV, Henry IV</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>R. Oulton</hi> &amp; <hi>G. Dexter.</hi> 1641.</p>
+            <pb facs="tcp:204935:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb n="1" facs="tcp:204935:2"/>
+            <head>ANOTHER DECLARATION FROM BOTH HOUSES OF PARLIAMENT to His Majestie.</head>
+            <opener>
+               <salute>May it please your Majestie,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>OUR Majesties most Loy<g ref="char:EOLhyphen"/>all Subjects, the Lords and Commons, cannot conceive that the <hi>Declaration</hi> which your Majesty received from Us at <hi>Newmarket,</hi> was such as did deserve that Censure your Majesty was pleased to lay upon Us, in that Speech which your Majesty made to Our Committees there, and sent in writing to both Houses: Our Adresses therein being accompanied
+<pb n="2" facs="tcp:204935:3"/> with Plainnesse, Humility and Faithfullnes, We thought more proper for the removing the Distraction of the Kingdome, then if We had then proceeded according to your Majesties Message of the 20. of <hi>January,</hi> by which your Majesty was pleased to desire that we would de<g ref="char:EOLhyphen"/>clare what we intended to doe for your Majesty, and what We expected to be done for Our Selves; in both which, We have bin very much hindred by your Maje<g ref="char:EOLhyphen"/>sties Deniall to secure Us and the whole Kingdome, by disposing the <hi>Militia,</hi> as We had divers times most hum<g ref="char:EOLhyphen"/>bly Petitioned; and We have not bin altogether neg<g ref="char:EOLhyphen"/>ligent of either, having lately made good proceedings, in preparing a Book of Rates to be passed in a Bill of Tunnage and Poundage, and likewise the most Materiall Heads of those Humble desires which We intended to Make to your Majesty, for the good and contentment of your Majestie, and your People: But now, if these could not bee perfected till the Kingdome bee put into Safety, by settling the <hi>Militia;</hi> and untill your Ma<g ref="char:EOLhyphen"/>jesty shal be pleased to Concurre with your Parliament in those necessary things, We hold it impossible for you to give the world, or your People such satisfaction, con<g ref="char:EOLhyphen"/>cerning the Feares and Jealousies which We have ex<g ref="char:EOLhyphen"/>pressed, as We hope your Majesty hath already received, touching that Exception which you were pleased to take to Mr. PYMS Speech.</p>
+            <p>As for your own Feares and Doubts, the ground wher<g ref="char:EOLhyphen"/>of being from Seditious Pamphlets and Sermons, We shall as carefully indeavour to remove it, assoone as We understand what Pamphlets are by your Majesty inten<g ref="char:EOLhyphen"/>ded, as we have bin to prevent all dangerous Tumults. And if any Extraordinary Concourse of People out of
+<pb n="3" facs="tcp:204935:3"/> the City to <hi>Westminster,</hi> had the face and shew of Tumult and Danger, in your Majesties apprehensions, it will appeare to be caused by your Majesties Deniall of such a Guard to your Parliament, as they might have cause to Confide in; And by taking in <hi>White-Hall</hi> such a Guard for your selfe, as gave just Cause of Jealousie to the Parliament, and of Terrour and offence to your People. We seeke nothing but your Majesties peace, and the prosperity of your Kingdomes; and Wee are heartily sorrie We have such plentifull Matter of an Answere to that Question, <hi>Whether you have violated Our Laws?</hi> We beseech your Majesty to remember, that the Government of this Kingdome, as it was in great part managed by your Ministers, before the beginning of the <hi>Parliament,</hi> consisted of many continued and multi<g ref="char:EOLhyphen"/>plyed Acts of violation of Laws, the wounds whereof were scarcely healed, when the Extremity of all their violations was farre exceeded by this late, strange, and unheard of breach of our Laws in the accusation of the Lord <hi>Kimbolton,</hi> and the five Members of the <hi>Commons House,</hi> and proceedings thereupon, for which we have yet received no full satisfaction.</p>
+            <p>To your Majesties next Question, Whether you had denied any Bill for the ease and security of your Sub<g ref="char:EOLhyphen"/>jects? We wish we could stoppe in the midst of our An<g ref="char:EOLhyphen"/>swer, That with much thankfulnesse we acknowledge that your Majesty hath passed many good Bills, ful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of contentment and advantage to your People, but truth and necessity inforceth us to adde this, That even in or about the time of passing those Bills some designe or o<g ref="char:EOLhyphen"/>ther hath bin a foote, which if it had taken effect would not only have deprived us of the fruit of those Bills, but
+<pb n="4" facs="tcp:204935:4"/> have reduced us to a worse condition of confusion then that, wherein the <hi>Parliament</hi> found us.</p>
+            <p>And if your Majesty had asked us the third Question Intimated in that Speech, <hi>What Wee had done for your Selfe?</hi> Our Answere would have bin much more easie; That Wee have paid two Armies, wherewith the Kingdome was burdened last yeare. That we have un<g ref="char:EOLhyphen"/>dertaken a Warre with <hi>Ireland:</hi> all which great mis<g ref="char:EOLhyphen"/>chiefe, and the Charges thereupon have bin occasioned by the evill Councells, so powerfull with your Ma<g ref="char:EOLhyphen"/>jesty, which have and will cost this Kingdome more then two Millions, all which in Justice ought to have bin borne by your Majesty.</p>
+            <p>As for the free and generall pardon, your Majestie hath bin pleased to offer, it can be no security to our Feares and Jealousies, for which your Majesty seems to propound it, because they arise not from any Guilt of our owne Actions, but from the evill designes and at<g ref="char:EOLhyphen"/>tempts of others.</p>
+            <p>To this our humble Answer to that Speech we de<g ref="char:EOLhyphen"/>sire to adde an information which we lately received from the Deputy Governour of the <hi>Marchant Adventu<g ref="char:EOLhyphen"/>rers,</hi> at <hi>Rotterdam</hi> in <hi>Holland,</hi> That an unknowne Person appertaining to the Lord <hi>Digby,</hi> did lately sollicite on <hi>Iames Henly</hi> a Marriner, to goe to <hi>Ellinore</hi> and there to take charge of a Ship in the Fleete of the King of <hi>Den<g ref="char:EOLhyphen"/>mark,</hi> there prepared, which he should conduct to <hi>Hull,</hi> in which Ships likewise he said a great Army was to be transported: And although we are not apt to give cre<g ref="char:EOLhyphen"/>dit to Informations of that nature, yet we cannot alto<g ref="char:EOLhyphen"/>gether think it fit to be neglected, but that it adds some<g ref="char:EOLhyphen"/>what to our feares and Jealousies, considering with what
+<pb n="5" facs="tcp:204935:4"/> Circumstances, it is accompanied of the Lord <hi>Digbyes</hi> preceding expressions, in a Letter to her Majesty, and Sir <hi>Lewis Diues;</hi> and your Majesties succeeding course of withdwrawing your selfe North-ward from your Parli<g ref="char:EOLhyphen"/>ament, in a manner very sutable and correspondent with that evill Counsell, which we doubt will make much deeper impression in the generality of your people: and therefore we most humbly desire, for the procuring and setling our and their confidence, and the other Reasons concerning the recovery of <hi>Ireland,</hi> and securing this Kingdome, which have beene formerly presented to your Majestie, you will be graciously pleased, with all convenient speed to returne to these parts, and to close with the advise and desire of your <hi>Parliament:</hi> Where you shall find their dutifull affections and endeavours, rea<g ref="char:EOLhyphen"/>dy to attend your Majestie, with such entertainment as shall not onely give your Majestie just cause of securi<g ref="char:EOLhyphen"/>ty in their faithfulnesse, but other manifest evidences of their earnest desires, to advance your Majesties service, Honour and contentment, and to establish it upon the sure foundation of the Peace and Prosperity of all your <hi>Kingdomes.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
